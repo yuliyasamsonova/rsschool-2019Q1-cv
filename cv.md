@@ -35,8 +35,8 @@
 3. Russian (Native)  
 
 **About myself:**  
-_Characteristic:_ learnability, responsibility, multitasking, punctuality. 
-_Interests:_ programming, sports, travel, languages.  
+_Characteristic:_ learnability, responsibility, multitasking, punctuality.
+<br>_Interests:_ programming, sports, travel, languages.  
 
 **Knowledge, skills and experience:** 
 
