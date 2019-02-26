@@ -1,6 +1,6 @@
 **Yuliya Samsonova (Самсонова Юлия)**
 
-![Yuliya Samsonova](https://avatars0.githubusercontent.com/u/45667526?s=460&v=4)
+![Yuliya Samsonova](https://avatars0.githubusercontent.com/u/45667526?s=200&u=e29f5676600a124182249df1d57f0e6aff788ad6&v=4)
 
 **Goal:** Junior JavaScript Developer with the possibility of obtaining knowledge and skills, building a career and active practice in the English language.  
 
