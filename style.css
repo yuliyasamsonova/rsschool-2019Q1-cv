@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font: 16px 'Dosis', Sans-Serif;
+    line-height: 24px;
+}
+.clear {
+    clear: both;
+}
+.wrapper {
+    width: 800px;
+    margin: 40px auto 60px;
+}
+.photo {
+    float: right;
+    margin-top: -30px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 10px;
+    background: #EBE7DD;
+    filter: grayscale(100%);
+}
+.photo:hover{
+    filter: grayscale(0%);
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+h1 {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid #29352e;
+}
+
+p {
+    margin-bottom: 16px;
+}
+a {
+    color: #81d8d0;
+    text-decoration: none;
+    border-bottom: 1px dotted #81d8d0;
+}
+a:hover {
+    border-bottom-style: solid;
+    color: #069adc;
+    border-bottom: 1px solid #069adc;
+}
+ul {
+    margin: 0 0 32px 17px;
+}
+.objective {
+    width: 500px;
+    float: left;
+
+}
+.objective p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 23px;
+    color: #2f7585;
+}
+h3 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    padding-right: 26px;
+    width: 150px;
+    float: left;
+    height: 100px;
+    border-right: 1px solid #999;
+}
+.description {
+    width: 600px;
+    float: right;
+}
+div.clear {
+    float: none;
+    margin: 0;
+    height: 30px;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.list li{
+    margin-right: 28px;
+}
